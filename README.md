@@ -1,4 +1,4 @@
-## 👋 Hello! I'm milkrevenant-school/stillalice-school. (미스터 곽)
+## 👋 Hello! I'm milkrevenant-school/stillalice-school.
 
 I'm a high school Korean language teacher and an educational technology researcher.  
 I explore how AI—especially GPT—can enhance Korean language education through automation, smart assessment, and interactive learning.
